@@ -43,4 +43,4 @@ process where process.name in ("psexec.exe","psexec64.exe","paexec.exe") or
 - Elastic: process, network, authentication, file, registry events (Endpoint / Winlogbeat / Sysmon)
 
 ---
-*Generated for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
+*Created for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
