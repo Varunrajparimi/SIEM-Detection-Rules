@@ -41,4 +41,4 @@ registry where registry.path : ("*\\CurrentVersion\\Run*", "*\\CurrentVersion\\R
 - Elastic: process, network, authentication, file, registry events (Endpoint / Winlogbeat / Sysmon)
 
 ---
-*Generated for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
+*Created for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
