@@ -44,4 +44,4 @@ index=azuread OR index=o365
 - Elastic: process, network, authentication, file, registry events (Endpoint / Winlogbeat / Sysmon)
 
 ---
-*Generated for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
+*Created for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
