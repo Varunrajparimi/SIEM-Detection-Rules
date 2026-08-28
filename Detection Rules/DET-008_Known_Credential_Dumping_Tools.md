@@ -41,4 +41,4 @@ process where process.command_line : ("*mimikatz*", "*sekurlsa*", "*procdump*lsa
 - Elastic: process, network, authentication, file, registry events (Endpoint / Winlogbeat / Sysmon)
 
 ---
-*Generated for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
+*Created for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
