@@ -43,4 +43,4 @@ process where process.parent.name in ("winword.exe","excel.exe","powerpnt.exe") 
 - Elastic: process, network, authentication, file, registry events (Endpoint / Winlogbeat / Sysmon)
 
 ---
-*Generated for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
+*Created for blank SIEM + EDR environments. Customize entity names, thresholds, and exclusions.*
