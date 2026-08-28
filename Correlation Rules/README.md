@@ -40,5 +40,3 @@ This dramatically reduces false positives compared with individual DET-xxx rules
 5. Continuously tune thresholds and allow-lists
 
 ---
-
-See `docs/` for platform-specific creation steps.
